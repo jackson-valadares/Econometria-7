@@ -1,5 +1,4 @@
 # Econometria Avançada - Aula 7 - Critérios de Informação
-* Arquivos e códigos feitos pelo professor;
+* Arquivos 
 * Resultados dos códigos;
-* Slides da aula;
-* Obs: Anotações feitas nos códigos; arquivos criados durante o processo serão subidos para cá.
+* Slides da au
